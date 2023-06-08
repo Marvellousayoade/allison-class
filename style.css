@@ -1,0 +1,30 @@
+/* common styles */
+body {
+    margin: 0px;
+}
+/* common nav styles */
+.navigation-wrapper {
+    height: 190x;
+    background-color: #11122b;
+    color: #cbcbcb;
+    /* flexbox container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 100px;
+}
+
+.left-column {
+display: flex;
+align-items: center;
+}
+
+
+.contact-hours-wrapper {
+  
+}
+
+.address-wrapper {
+   
+}
+time= 5:48
